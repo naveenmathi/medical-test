@@ -1,0 +1,14 @@
+we are going to create below project for reactjs learning purposes.
+we need to create complete reactjs frontend for below project, use any fast db and fast backend of your preferred choice for api support.
+
+Project: BIO FORTIS | Tech Stack: React JS, SQL
+• Engineered end-to-end clinical trial and biobank sample lifecycle workflows 
+• Configured relational data pipelines to track patient biomarkers (RBC, WBC, and Platelets), manage
+physical storage locations (freezers and racks), and warn sample expiry schedules.
+• Ensured audit compliance for Informed Consent Forms (ICF)
+• Integrated backend data models with responsive React JS web and mobile interfaces, building
+interactive data tables, line graphs, and bar charts for real-time analytics.
+• Deliver custom client (atleast 2 clients) dashboards that streamlined chain-of-custody & shipment tracking and
+helped prevent biological specimen spoilage by providing expiry warning alert systems
+
+
